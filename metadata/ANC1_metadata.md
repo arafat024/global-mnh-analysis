@@ -1,0 +1,17 @@
+# ANC1 Metadata
+- **Description**: Antenatal care coverage: at least one visit.
+- **Key Indicators**:
+  - Women aged 15–49 attended at least once during pregnancy by skilled health personnel.
+- **Regions**:
+  - UNICEF Reporting Region
+  - UNICEF Programme Region
+- **Sources**:
+  - Multiple Indicator Cluster Surveys (MICS)
+  - Demographic and Health Surveys (DHS)
+- **Data Columns**:
+  - `iso_code`: ISO country code.
+  - `country`: Country name.
+  - `year`: Year of data collection.
+  - Socioeconomic indicators: Urban, Poorest, Richest, etc.
+- **Important Notes**:
+  - Some data points are imputed using median values.
